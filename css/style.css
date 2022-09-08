@@ -132,7 +132,7 @@ body.menu-open {
     left: 0;
     width: 100%;
     height: 3px;
-    background-color: #075A8C;
+    background-color: #fff;
     -webkit-transition: all 0.4s ease;
     transition: all 0.4s ease;
 }
@@ -143,7 +143,7 @@ body.menu-open {
     left: 0;
     width: 100%;
     height: 100%;
-    background-color: #075A8C;
+    background-color: #fff;
     -webkit-transform-origin: center;
     -moz-transform-origin: center;
     -ms-transform-origin: center;
@@ -348,7 +348,7 @@ body.menu-open {
 }
 
 .header {
-    background-color: #232931;
+    background-color: #5A6771;
     text-align: center;
     padding: 16rem 3.5rem 14rem;
 }
@@ -682,7 +682,7 @@ body.menu-open {
 }
 
 .boxy.primary-color h1.title {
-    color: #232931;
+    color: #FFF;
 }
 
 .boxy.primary-color .text {
