@@ -343,9 +343,9 @@ body.menu-open {
     transform: translateY(-13rem);
 }
 
-.cnav.blend {
+/* .cnav.blend {
     mix-blend-mode: difference;
-}
+} */
 
 .header {
     background-color: #dad5d5;
